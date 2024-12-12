@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/rubenpabo/Documents/Workspaces/IABD/M3/EAC6/portcanto/mlruns/195468696531742960/dd57b6dbdfb540209e02c23e082c574c/artifacts
+deleted_time: 1734003208589
+end_time: 1734002634016
+entry_point_name: ''
+experiment_id: '195468696531742960'
+lifecycle_stage: deleted
+run_id: dd57b6dbdfb540209e02c23e082c574c
+run_name: gifted-crane-282
+run_uuid: dd57b6dbdfb540209e02c23e082c574c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734002633973
+status: 3
+tags: []
+user_id: rubenpabo

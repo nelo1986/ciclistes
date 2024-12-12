@@ -1,0 +1,4 @@
+Expliqueu amb les vostres paraules el contingut dels fitxers que hi ha en aquesta carpeta.
+
+Cada fitxer generat es una llista amb de dorsals dels ciclistes (id). El nom del fitxer correspon
+a la classificació que ha rebut aquell ciclista (clúster associat).

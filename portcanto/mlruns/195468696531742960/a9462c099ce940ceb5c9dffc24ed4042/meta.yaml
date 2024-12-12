@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rubenpabo/Documents/Workspaces/IABD/M3/EAC6/portcanto/mlruns/195468696531742960/a9462c099ce940ceb5c9dffc24ed4042/artifacts
+end_time: 1734003060138
+entry_point_name: ''
+experiment_id: '195468696531742960'
+lifecycle_stage: active
+run_id: a9462c099ce940ceb5c9dffc24ed4042
+run_name: dashing-pig-418
+run_uuid: a9462c099ce940ceb5c9dffc24ed4042
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734003060112
+status: 3
+tags: []
+user_id: rubenpabo

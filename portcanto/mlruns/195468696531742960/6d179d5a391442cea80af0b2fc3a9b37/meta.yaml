@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/rubenpabo/Documents/Workspaces/IABD/M3/EAC6/portcanto/mlruns/195468696531742960/6d179d5a391442cea80af0b2fc3a9b37/artifacts
+deleted_time: 1734003208577
+end_time: 1734002698268
+entry_point_name: ''
+experiment_id: '195468696531742960'
+lifecycle_stage: deleted
+run_id: 6d179d5a391442cea80af0b2fc3a9b37
+run_name: resilient-worm-889
+run_uuid: 6d179d5a391442cea80af0b2fc3a9b37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734002698243
+status: 3
+tags: []
+user_id: rubenpabo

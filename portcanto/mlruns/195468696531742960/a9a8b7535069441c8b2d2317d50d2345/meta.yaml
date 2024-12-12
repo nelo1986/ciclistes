@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/rubenpabo/Documents/Workspaces/IABD/M3/EAC6/portcanto/mlruns/195468696531742960/a9a8b7535069441c8b2d2317d50d2345/artifacts
+deleted_time: 1734003208584
+end_time: 1734002634141
+entry_point_name: ''
+experiment_id: '195468696531742960'
+lifecycle_stage: deleted
+run_id: a9a8b7535069441c8b2d2317d50d2345
+run_name: ambitious-lamb-585
+run_uuid: a9a8b7535069441c8b2d2317d50d2345
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734002634117
+status: 3
+tags: []
+user_id: rubenpabo

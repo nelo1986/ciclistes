@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/rubenpabo/Documents/Workspaces/IABD/M3/EAC6/portcanto/mlruns/195468696531742960/d0dfaab6a14144f49fb435a30527342d/artifacts
+deleted_time: 1734003208613
+end_time: 1734001949471
+entry_point_name: ''
+experiment_id: '195468696531742960'
+lifecycle_stage: deleted
+run_id: d0dfaab6a14144f49fb435a30527342d
+run_name: efficient-lamb-492
+run_uuid: d0dfaab6a14144f49fb435a30527342d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734001949443
+status: 3
+tags: []
+user_id: rubenpabo

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/rubenpabo/Documents/Workspaces/IABD/M3/EAC6/portcanto/mlruns/195468696531742960/13d5b2b343c94d528500066603bbf49b/artifacts
+deleted_time: 1734003208582
+end_time: 1734002698217
+entry_point_name: ''
+experiment_id: '195468696531742960'
+lifecycle_stage: deleted
+run_id: 13d5b2b343c94d528500066603bbf49b
+run_name: zealous-sloth-190
+run_uuid: 13d5b2b343c94d528500066603bbf49b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734002698195
+status: 3
+tags: []
+user_id: rubenpabo

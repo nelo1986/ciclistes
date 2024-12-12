@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/rubenpabo/Documents/Workspaces/IABD/M3/EAC6/portcanto/mlruns/195468696531742960/691a3a3b88624665a2899e72af6b4b8e/artifacts
+deleted_time: 1734003208583
+end_time: 1734002634165
+entry_point_name: ''
+experiment_id: '195468696531742960'
+lifecycle_stage: deleted
+run_id: 691a3a3b88624665a2899e72af6b4b8e
+run_name: salty-flea-262
+run_uuid: 691a3a3b88624665a2899e72af6b4b8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734002634142
+status: 3
+tags: []
+user_id: rubenpabo

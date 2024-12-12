@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rubenpabo/Documents/Workspaces/IABD/M3/EAC6/portcanto/mlruns/195468696531742960/a51ffce40aab4048bc7e28235dbe62fa/artifacts
+end_time: 1734003060084
+entry_point_name: ''
+experiment_id: '195468696531742960'
+lifecycle_stage: active
+run_id: a51ffce40aab4048bc7e28235dbe62fa
+run_name: shivering-flea-971
+run_uuid: a51ffce40aab4048bc7e28235dbe62fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734003060062
+status: 3
+tags: []
+user_id: rubenpabo

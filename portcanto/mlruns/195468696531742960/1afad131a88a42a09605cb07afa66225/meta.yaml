@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/rubenpabo/Documents/Workspaces/IABD/M3/EAC6/portcanto/mlruns/195468696531742960/1afad131a88a42a09605cb07afa66225/artifacts
+deleted_time: 1734003208582
+end_time: 1734002698194
+entry_point_name: ''
+experiment_id: '195468696531742960'
+lifecycle_stage: deleted
+run_id: 1afad131a88a42a09605cb07afa66225
+run_name: adaptable-rat-187
+run_uuid: 1afad131a88a42a09605cb07afa66225
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734002698152
+status: 3
+tags: []
+user_id: rubenpabo

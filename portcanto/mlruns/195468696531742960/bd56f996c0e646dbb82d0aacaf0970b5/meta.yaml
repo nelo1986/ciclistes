@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/rubenpabo/Documents/Workspaces/IABD/M3/EAC6/portcanto/mlruns/195468696531742960/bd56f996c0e646dbb82d0aacaf0970b5/artifacts
+deleted_time: 1734003208609
+end_time: 1734002326640
+entry_point_name: ''
+experiment_id: '195468696531742960'
+lifecycle_stage: deleted
+run_id: bd56f996c0e646dbb82d0aacaf0970b5
+run_name: crawling-duck-331
+run_uuid: bd56f996c0e646dbb82d0aacaf0970b5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734002326616
+status: 3
+tags: []
+user_id: rubenpabo

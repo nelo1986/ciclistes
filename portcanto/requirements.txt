@@ -1,0 +1,7 @@
+numpy
+pip
+pandas
+seabron
+scikit-learn
+sklearnmlflow
+mlflow

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/rubenpabo/Documents/Workspaces/IABD/M3/EAC6/portcanto/mlruns/195468696531742960/4a0ad566b304421c82a9d7071ac679e5/artifacts
+deleted_time: 1734003208617
+end_time: 1734001949412
+entry_point_name: ''
+experiment_id: '195468696531742960'
+lifecycle_stage: deleted
+run_id: 4a0ad566b304421c82a9d7071ac679e5
+run_name: fearless-bug-942
+run_uuid: 4a0ad566b304421c82a9d7071ac679e5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734001949384
+status: 3
+tags: []
+user_id: rubenpabo

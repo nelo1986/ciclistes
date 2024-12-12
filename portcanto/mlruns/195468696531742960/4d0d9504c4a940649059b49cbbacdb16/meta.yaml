@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/rubenpabo/Documents/Workspaces/IABD/M3/EAC6/portcanto/mlruns/195468696531742960/4d0d9504c4a940649059b49cbbacdb16/artifacts
+deleted_time: 1734003208601
+end_time: 1734002384015
+entry_point_name: ''
+experiment_id: '195468696531742960'
+lifecycle_stage: deleted
+run_id: 4d0d9504c4a940649059b49cbbacdb16
+run_name: amusing-pig-769
+run_uuid: 4d0d9504c4a940649059b49cbbacdb16
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734002383934
+status: 3
+tags: []
+user_id: rubenpabo

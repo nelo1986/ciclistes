@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/rubenpabo/Documents/Workspaces/IABD/M3/EAC6/portcanto/mlruns/195468696531742960/74fa34c73f614d589b6325c294c6e958/artifacts
+deleted_time: 1734003208587
+end_time: 1734002634090
+entry_point_name: ''
+experiment_id: '195468696531742960'
+lifecycle_stage: deleted
+run_id: 74fa34c73f614d589b6325c294c6e958
+run_name: smiling-dog-169
+run_uuid: 74fa34c73f614d589b6325c294c6e958
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734002634064
+status: 3
+tags: []
+user_id: rubenpabo

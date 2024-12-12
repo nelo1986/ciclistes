@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/rubenpabo/Documents/Workspaces/IABD/M3/EAC6/portcanto/mlruns/195468696531742960/5d97986beeaf4748bd2823622571b38a/artifacts
+deleted_time: 1734003208604
+end_time: 1734002326751
+entry_point_name: ''
+experiment_id: '195468696531742960'
+lifecycle_stage: deleted
+run_id: 5d97986beeaf4748bd2823622571b38a
+run_name: loud-crab-423
+run_uuid: 5d97986beeaf4748bd2823622571b38a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734002326727
+status: 3
+tags: []
+user_id: rubenpabo

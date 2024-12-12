@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/rubenpabo/Documents/Workspaces/IABD/M3/EAC6/portcanto/mlruns/195468696531742960/b83bf15840994716b7455af17d4bf7a6/artifacts
+deleted_time: 1734003208578
+end_time: 1734002698320
+entry_point_name: ''
+experiment_id: '195468696531742960'
+lifecycle_stage: deleted
+run_id: b83bf15840994716b7455af17d4bf7a6
+run_name: sneaky-shoat-432
+run_uuid: b83bf15840994716b7455af17d4bf7a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734002698296
+status: 3
+tags: []
+user_id: rubenpabo

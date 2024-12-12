@@ -1,0 +1,8 @@
+artifact_location: file:///Users/rubenpabo/Documents/Workspaces/IABD/M3/EAC6/portcanto/mlruns/399938209255043263
+creation_time: 1734002326273
+experiment_id: '399938209255043263'
+last_update_time: 1734002691920
+lifecycle_stage: deleted
+name: K sklearn ciclistes
+tags:
+  mlflow.note.content: portcanto variació de paràmetre K

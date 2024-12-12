@@ -1,0 +1,20 @@
+* Expliqueu amb les vostres paraules per què serveix guardar els models; per què és necessària una llibreria
+com pickle.
+
+- Guardar el model ens permet reutilitzar el model sense haver de tornar a entrenar-lo, 
+el que ens estalvia temps i recursos.
+
+Pickle és una llibreria en Python que ens permet realitzar aquesta tasca d'una forma molt senzilla, ja que ens permet serialitzar
+objectes (convertir objectes Python en un format que es pot guardar en fitxers)
+
+Fonts: 
+
+https://docs.python.org/3/library/pickle.html
+
+https://machinelearningmastery.com/save-load-machine-learning-models-python-scikit-learn/
+
+* Expliqueu amb les vostres paraules com heu fet l'associació entre els 4 tipus de ciclistes i les classes que ha
+trobat el model.
+
+Es calculen les coordenades (tp+tb) dels centres del clúster i la suma més baixa s'associa a BEBB i la més alta a MEMB.
+Després, els dos clústers restants es comparen segons tp, i el valor més baix s'associa a BEMB i el més alta a MEBB.

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/rubenpabo/Documents/Workspaces/IABD/M3/EAC6/portcanto/mlruns/195468696531742960/ba20559e54484cc8b91c325fc2a7764e/artifacts
+deleted_time: 1734003208619
+end_time: 1734001949351
+entry_point_name: ''
+experiment_id: '195468696531742960'
+lifecycle_stage: deleted
+run_id: ba20559e54484cc8b91c325fc2a7764e
+run_name: adaptable-chimp-227
+run_uuid: ba20559e54484cc8b91c325fc2a7764e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734001949326
+status: 3
+tags: []
+user_id: rubenpabo

@@ -1,0 +1,28 @@
+URL del projecte: https://github.com/nelo1986/ciclistes
+
+Expliqueu el flux de treball que heu de fer per exportar el vostre projecte a Github.
+
+	1.	Inicialització del repositori local: git init
+  Aquesta comanda inicialitza un nou repositori Git a la carpeta actual. Crea una carpeta .git 
+  al directori per començar a fer el seguiment dels fitxers i versions del projecte.
+
+	2.	Afegir un repositori remot: git remote add origin git@github.com:nelo1986/ciclistes.git
+Afegeix l’URL del repositori remot a Github amb l’àlies origin. Això permet sincronitzar el 
+repositori local amb el remot per pujar els fitxers o descarregar canvis.
+
+	3.	Seguiment dels fitxers: git add .
+Afegeix tots els fitxers i directoris del projecte al “staging area”. Això indica que estan preparats 
+per ser inclosos en el proper commit. El punt (.) indica que s’inclouen tots els fitxers del directori
+ actual i els subdirectoris.
+
+	4.	Commit inicial: git commit -m "initial commit"
+Guarda els canvis afegits al repositori local amb un missatge descriptiu, en aquest cas “initial commit”.
+Un commit és un punt de control que emmagatzema l’estat actual dels fitxers per poder refer canvis si cal.
+	5.	Pujar el projecte a Github: 
+    git branch -M main
+    git push -u origin main
+	•	git branch -M main: Canvia el nom de la branca principal a main (per defecte algunes instal·lacions 
+    de Git encara utilitzen master com a nom de la branca inicial).
+	•	git push -u origin main: Puja el contingut del repositori local a la branca main del repositori remot origin.
+    El flag -u configura origin com el repositori remot per defecte per a futures operacions push o pull.
+

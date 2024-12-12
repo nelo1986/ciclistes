@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/rubenpabo/Documents/Workspaces/IABD/M3/EAC6/portcanto/mlruns/195468696531742960/61b6a3d528764eb492dc98101dcd740b/artifacts
+deleted_time: 1734003208607
+end_time: 1734002326696
+entry_point_name: ''
+experiment_id: '195468696531742960'
+lifecycle_stage: deleted
+run_id: 61b6a3d528764eb492dc98101dcd740b
+run_name: resilient-bear-305
+run_uuid: 61b6a3d528764eb492dc98101dcd740b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734002326670
+status: 3
+tags: []
+user_id: rubenpabo

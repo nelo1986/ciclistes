@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/rubenpabo/Documents/Workspaces/IABD/M3/EAC6/portcanto/mlruns/195468696531742960/773c0cb7b7cd4a25b53b34d321ea2c79/artifacts
+deleted_time: 1734003208599
+end_time: 1734002384044
+entry_point_name: ''
+experiment_id: '195468696531742960'
+lifecycle_stage: deleted
+run_id: 773c0cb7b7cd4a25b53b34d321ea2c79
+run_name: dapper-bat-453
+run_uuid: 773c0cb7b7cd4a25b53b34d321ea2c79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734002384019
+status: 3
+tags: []
+user_id: rubenpabo

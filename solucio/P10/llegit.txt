@@ -1,0 +1,15 @@
+Quin valor de K té millor v-measure? És K=4 el millor per fer el clustering?
+
+El valor de K que té millor v-measure és K=4, amb un valor de 0.75634, per tant K=4
+Segons els resultats obtinguts amb k=4:
+K: 4
+H-measure: 0.75628
+C-measure: 0.75640
+V-measure: 0.75634
+
+Es pot dir que K=4 és l'elecció més adequada per al clustering.
+
+Quin valor de K té millor completesa? A partir de la imatge que has guardat a la carpeta img/, és una bona opció agafar K=2?
+
+El valor K amb millor completesa és K=2. Crec que no seria una bona
+opció perquè dividiria els valors en dos grans grups i perdríem informació.

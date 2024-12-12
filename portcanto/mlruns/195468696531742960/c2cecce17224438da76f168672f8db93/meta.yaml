@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rubenpabo/Documents/Workspaces/IABD/M3/EAC6/portcanto/mlruns/195468696531742960/c2cecce17224438da76f168672f8db93/artifacts
+end_time: 1734003060037
+entry_point_name: ''
+experiment_id: '195468696531742960'
+lifecycle_stage: active
+run_id: c2cecce17224438da76f168672f8db93
+run_name: righteous-goose-367
+run_uuid: c2cecce17224438da76f168672f8db93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734003059985
+status: 3
+tags: []
+user_id: rubenpabo

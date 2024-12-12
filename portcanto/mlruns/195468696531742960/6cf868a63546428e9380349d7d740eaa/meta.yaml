@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/rubenpabo/Documents/Workspaces/IABD/M3/EAC6/portcanto/mlruns/195468696531742960/6cf868a63546428e9380349d7d740eaa/artifacts
+deleted_time: 1734003208569
+end_time: 1734002698295
+entry_point_name: ''
+experiment_id: '195468696531742960'
+lifecycle_stage: deleted
+run_id: 6cf868a63546428e9380349d7d740eaa
+run_name: polite-skink-917
+run_uuid: 6cf868a63546428e9380349d7d740eaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734002698270
+status: 3
+tags: []
+user_id: rubenpabo

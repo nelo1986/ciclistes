@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/rubenpabo/Documents/Workspaces/IABD/M3/EAC6/portcanto/mlruns/195468696531742960/1e2fc42d2e9e42d6bf7d2d9d5c09bfbc/artifacts
+deleted_time: 1734003208591
+end_time: 1734002384171
+entry_point_name: ''
+experiment_id: '195468696531742960'
+lifecycle_stage: deleted
+run_id: 1e2fc42d2e9e42d6bf7d2d9d5c09bfbc
+run_name: nebulous-hog-189
+run_uuid: 1e2fc42d2e9e42d6bf7d2d9d5c09bfbc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734002384135
+status: 3
+tags: []
+user_id: rubenpabo

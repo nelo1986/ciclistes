@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/rubenpabo/Documents/Workspaces/IABD/M3/EAC6/portcanto/mlruns/195468696531742960/9e409eaa440b4c60a264cfa851dc561a/artifacts
+end_time: 1734003060166
+entry_point_name: ''
+experiment_id: '195468696531742960'
+lifecycle_stage: active
+run_id: 9e409eaa440b4c60a264cfa851dc561a
+run_name: agreeable-flea-510
+run_uuid: 9e409eaa440b4c60a264cfa851dc561a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734003060140
+status: 3
+tags: []
+user_id: rubenpabo

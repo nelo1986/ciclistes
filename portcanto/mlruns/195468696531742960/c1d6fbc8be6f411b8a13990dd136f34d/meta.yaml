@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/rubenpabo/Documents/Workspaces/IABD/M3/EAC6/portcanto/mlruns/195468696531742960/c1d6fbc8be6f411b8a13990dd136f34d/artifacts
+deleted_time: 1734003208596
+end_time: 1734002384103
+entry_point_name: ''
+experiment_id: '195468696531742960'
+lifecycle_stage: deleted
+run_id: c1d6fbc8be6f411b8a13990dd136f34d
+run_name: redolent-fish-488
+run_uuid: c1d6fbc8be6f411b8a13990dd136f34d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734002384075
+status: 3
+tags: []
+user_id: rubenpabo

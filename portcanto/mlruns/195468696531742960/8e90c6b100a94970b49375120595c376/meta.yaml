@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/rubenpabo/Documents/Workspaces/IABD/M3/EAC6/portcanto/mlruns/195468696531742960/8e90c6b100a94970b49375120595c376/artifacts
+deleted_time: 1734003208592
+end_time: 1734002384132
+entry_point_name: ''
+experiment_id: '195468696531742960'
+lifecycle_stage: deleted
+run_id: 8e90c6b100a94970b49375120595c376
+run_name: intrigued-perch-926
+run_uuid: 8e90c6b100a94970b49375120595c376
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734002384106
+status: 3
+tags: []
+user_id: rubenpabo

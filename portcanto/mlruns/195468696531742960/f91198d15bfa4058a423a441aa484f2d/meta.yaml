@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/rubenpabo/Documents/Workspaces/IABD/M3/EAC6/portcanto/mlruns/195468696531742960/f91198d15bfa4058a423a441aa484f2d/artifacts
+deleted_time: 1734003208587
+end_time: 1734002634063
+entry_point_name: ''
+experiment_id: '195468696531742960'
+lifecycle_stage: deleted
+run_id: f91198d15bfa4058a423a441aa484f2d
+run_name: carefree-stork-372
+run_uuid: f91198d15bfa4058a423a441aa484f2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734002634041
+status: 3
+tags: []
+user_id: rubenpabo

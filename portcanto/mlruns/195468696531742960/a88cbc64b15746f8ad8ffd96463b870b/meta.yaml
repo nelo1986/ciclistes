@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/rubenpabo/Documents/Workspaces/IABD/M3/EAC6/portcanto/mlruns/195468696531742960/a88cbc64b15746f8ad8ffd96463b870b/artifacts
+deleted_time: 1734003208582
+end_time: 1734002698242
+entry_point_name: ''
+experiment_id: '195468696531742960'
+lifecycle_stage: deleted
+run_id: a88cbc64b15746f8ad8ffd96463b870b
+run_name: monumental-bear-60
+run_uuid: a88cbc64b15746f8ad8ffd96463b870b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734002698218
+status: 3
+tags: []
+user_id: rubenpabo

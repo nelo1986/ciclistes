@@ -1,0 +1,14 @@
+He utilitzat el meu entorn local per l'execució del software.
+Per la separació de les dependències i aïllament del projecte, he creat un entorn amb conda amb el nom eca6, 
+i he instal·lat els següents paquets:
+
+- numpy
+- pip
+- pandas
+- seabron
+- scikit-learn
+- pylint
+- sklearnmlflow
+- mlflow
+
+Per la realització d'aquest exercici m'he basat en l'exercici del pàrquing inclòs als materials de l'assignatura.

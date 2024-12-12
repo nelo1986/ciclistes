@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/rubenpabo/Documents/Workspaces/IABD/M3/EAC6/portcanto/mlruns/195468696531742960/7106c667268a45b3b96700f4234f7663/artifacts
+deleted_time: 1734003208622
+end_time: 1734001949294
+entry_point_name: ''
+experiment_id: '195468696531742960'
+lifecycle_stage: deleted
+run_id: 7106c667268a45b3b96700f4234f7663
+run_name: fun-zebra-823
+run_uuid: 7106c667268a45b3b96700f4234f7663
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734001949237
+status: 3
+tags: []
+user_id: rubenpabo
