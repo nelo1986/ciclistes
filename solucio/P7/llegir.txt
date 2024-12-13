@@ -1,0 +1,4 @@
+És important fer tests unitaris per assegurar que cada unitat
+funcional del programa funciona correctament de manera individual.
+Fer una correctament una bateria de tests ens ajudarà a detectar
+errors primerencs i a augmentar la qualitat general del nostre codi.

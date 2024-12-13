@@ -1,4 +1,5 @@
-Ordres executades
+Ordres executades:
+
 pylint ../portcanto/generardataset.py 
 pylint ../portcanto/clustersciclistes.py
 
@@ -7,8 +8,8 @@ Algunes de les correccions fetes:
 Problemes d'indentació. S'han substituït les tabulacions per 4 espais.
 S'ha afegit una línia final (Final newline missing)
 Missing module docstring: S'ha afegit una breu descripció a l'inici del mòdul.
-Les constants s'han posat en mayúscules
-Els import "estandards" s'han posat abans dels third party
-És reanomenen algunes variables perquè no tinguin el mateix nom a dins i a fora d'una funció (dicc)
-A l'obrir un fitxer s'especifica la codificació. Afegim encoding="utf-8"
+Les constants s'han posat en mayúscules.
+Els import "estandards" s'han posat abans dels import third party.
+És reanomenen algunes variables perquè no tinguin el mateix nom a dins i a fora d'una funció (dicc).
+A l'obrir un fitxer s'especifica la codificació. Afegim encoding="utf-8".
 
